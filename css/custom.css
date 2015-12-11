@@ -4,3 +4,16 @@ body {
 	background: url("../img/apostles.jpg") no-repeat;
 	height: 100%
 }
+
+.container {
+	background-color: #fff;
+	margin-top: 20px;
+}
+
+#navbar {
+	background-color: #ccc;
+}
+
+#navbar .container-fluid {
+	background-color: #ccc;
+}
